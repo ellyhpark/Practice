@@ -1,0 +1,17 @@
+{
+  "name": "elly.js",
+  "version": "1.0.0",
+  "description": "this is a test for elly.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Elly Park",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.155.0"
+  }
+}
